@@ -1,20 +1,3 @@
-- name: Windows
+- name: Sysinternals
   tocHref: /sysinternals/
-  topicHref: /windows/
-  items:
-  - name: Sysinternals
-    tocHref: /sysinternals/resources/
-    topicHref: /sysinternals/index
-  - name: Sysinternals
-    tocHref: /sysinternals/downloads/
-    topicHref: /sysinternals/index  
-  - name: Sysinternals
-    tocHref: /sysinternals/community/
-    topicHref: /sysinternals/index  
-  - name: Sysinternals
-    tocHref: /sysinternals/license-terms/
-    topicHref: /sysinternals/index  
-  - name: Sysinternals
-    tocHref: /sysinternals/license-faq/
-    topicHref: /sysinternals/index  
- 
+  topicHref: /sysinternals/index
